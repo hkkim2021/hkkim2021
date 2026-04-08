@@ -21,5 +21,27 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
-  
+
+
+<div align=center>
+  <h1>📚 TECH STACKS</h1>
+
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <br>
+
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <br>
+
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/react%20icons-E91E63?style=for-the-badge&logo=react&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/toss%20payments-0064FF?style=for-the-badge&logo=toss&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
+  <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
+</div>
 
