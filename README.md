@@ -43,14 +43,6 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
   <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
-</div>
-
-<div align=center>
-  <h1>📚 TECH STACKS</h1>
-
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/python%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -66,8 +58,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/aws%20rds-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white">
   <br>
 
-  <img src="https://img.shields.io/badge/toss%20payments-0064FF?style=for-the-badge&logo=toss&logoColor=white">
-  <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
-  <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
+  <img src="https://img.shields.io/badge/vite%206-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/lucide%20react-F43F5E?style=for-the-badge&logo=lucide&logoColor=white">
+  <br>
+
 </div>
+
 
