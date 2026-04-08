@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/vite%206-646CFF?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/lucide%20react-F43F5E?style=for-the-badge&logo=lucide&logoColor=white">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <br>
 
 </div>
