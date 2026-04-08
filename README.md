@@ -45,3 +45,29 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
 </div>
 
+<div align=center>
+  <h1>📚 TECH STACKS</h1>
+
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/python%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/fastapi-05998B?style=for-the-badge&logo=fastapi&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/anthropic%20claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/openai%20embedding-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/aws%20rds-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/toss%20payments-0064FF?style=for-the-badge&logo=toss&logoColor=white">
+  <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
+  <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
+</div>
+
