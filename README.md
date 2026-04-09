@@ -64,5 +64,28 @@ Here are some ideas to get you started:
   <br>
 
 </div>
+<div align=center>
+  <h1>⚙️ BACKEND & INFRA STACKS</h1>
 
+  <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/json%20web%20tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/timescaledb-F37032?style=for-the-badge&logo=timescaledb&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/apache%20kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/nginx%20ingress-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/kt%20cloud%20(k--paas)-00A1E0?style=for-the-badge&logo=icloud&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/gitlab%20ci/cd-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/nexus%20repository-000000?style=for-the-badge&logo=sonatype&logoColor=white">
+</div>
 
