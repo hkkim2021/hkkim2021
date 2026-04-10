@@ -63,6 +63,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <br>
 
+  <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white">
+  <img src="https://img.shields.io/badge/line%20liff-00C300?style=for-the-badge&logo=line&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.dot.js&logoColor=white">
+  <img src="https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethers&logoColor=white">
+  <img src="https://img.shields.io/badge/kaia%20chain-000000?style=for-the-badge&logo=anchor&logoColor=white">
+  <br>
+
 </div>
 <div align=center>
   <h1>⚙️ BACKEND & INFRA STACKS</h1>
