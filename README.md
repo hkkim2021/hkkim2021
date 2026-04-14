@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 
-<div align=center>
+<!-- <div align=center>
   <h1>📚 TECH STACKS</h1>
 
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
@@ -95,6 +95,6 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/gitlab%20ci/cd-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-  <img src="https://img.shields.io/badge/nexus%20repository-000000?style=for-the-badge&logo=sonatype&logoColor=white">
-</div>
+  <img src="https://img.shields.io/badge/nexus%20repository-000000?style=for-the-badge&logo=sonatype&logoColor=white"> -->
+<!-- </div> -->
 
