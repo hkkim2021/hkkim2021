@@ -48,6 +48,27 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
+<div align=center>
+  <h1>🏗️ BACKEND & REAL-TIME STACKS</h1>
+
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+  <img src="https://img.shields.io/badge/websocket-white?style=for-the-badge&logo=websocket&logoColor=black">
+  <img src="https://img.shields.io/badge/yjs-D29A2D?style=for-the-badge&logo=yjs&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/typeorm-FE0808?style=for-the-badge&logo=typeorm&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/passport-34E27A?style=for-the-badge&logo=passport&logoColor=white">
+  <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+</div>
+
 <!-- <div align=center>
   <h1>📚 TECH STACKS</h1>
 
