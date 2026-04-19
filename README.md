@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 />
 </a>
 
+<div align=center>
+  <img src="https://img.shields.io/badge/postgresql%20fts-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+</div>
 
 <!-- <div align=center>
   <h1>📚 TECH STACKS</h1>
